@@ -1921,30 +1921,3 @@ a {
 .cid-szmk9LL6eA .media-container-row .mbr-text {
   color: #ffffff;
 }
-.cid-sU7fF2PFu8 {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
-  background-color: #ffffff;
-}
-.cid-sU7fF2PFu8 .card .card-header {
-  background-color: transparent;
-  margin-bottom: 0;
-}
-.cid-sU7fF2PFu8 .panel-title {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-}
-.cid-sU7fF2PFu8 .mbr-iconfont {
-  padding-left: 1rem;
-  font-family: 'Moririse2' !important;
-  font-size: 1.4rem !important;
-  color: #6592e6;
-}
-.cid-sU7fF2PFu8 .panel-body,
-.cid-sU7fF2PFu8 .card-header {
-  padding: 1rem 0;
-}
-.cid-sU7fF2PFu8 .panel-title-edit {
-  color: #000000;
-}
